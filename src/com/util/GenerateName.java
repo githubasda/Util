@@ -88,5 +88,8 @@ public class GenerateName {
         return String.valueOf(stringBuffer);
     }
 
+    public static void main(String[] args) {
+
+    }
 
 }
