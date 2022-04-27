@@ -89,7 +89,7 @@ public class GenerateName {
     }
 
     public static void main(String[] args) {
-
+        System.out.println("hox-fix");
     }
 
 }
